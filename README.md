@@ -1,3 +1,5 @@
+![logo](https://github.com/rounak-69/rounak-69/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Rounak Jhajharia</h1>
 <h3 align="center">Passionate Software Engineer, Web & App Developer, and UI/UX Designer from India</h3>
 
