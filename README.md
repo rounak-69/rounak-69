@@ -55,15 +55,17 @@
   <img src="https://github-profile-trophy.vercel.app?username=rounak-69&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-- 📫 How to reach me **rounakjhajharia96@gmail.com**
+###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="www.linkedin.com/in/rounak-jhajharia-0a454b232" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/rounak-69/rounak-69/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/rounak-69/rounak-69/output/snake.yml" alt="Snake animation" />
 
 ###
 
