@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="250" src="https://github.com/rounak-69/rounak-69/blob/main/ezgif-5-f844c203c7.gif"/>
+  <img height="250" src="https://github.com/rounak-69/rounak-69/blob/main/ezgif-5-f844c203c7.gif"  />
+</div>
 
 ###
 
@@ -64,7 +65,7 @@
 
 ###
 
-<img src="https://github.com/rounak-69/rounak-69/blob/output/snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/rounak-69/rounak-69/output/snake.svg" alt="Snake animation" />
 
 ###
 
