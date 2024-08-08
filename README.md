@@ -64,7 +64,7 @@
 
 ###
 
-<img src="https://github.com/rounak-69/rounak-69/blob/main/.github/workflows/snake.yml" alt="snake animation" />
+<img src="https://github.com/rounak-69/rounak-69/blob/output/snake.svg" alt="snake animation" />
 
 ###
 
