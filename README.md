@@ -1,6 +1,5 @@
 <div align="center">
-  <img height="250" src="https://s5.ezgif.com/tmp/ezgif-5-4f3fc6d690.gif"  />
-</div>
+  <img height="250" src="https://github.com/rounak-69/rounak-69/blob/main/ezgif-5-f844c203c7.gif"/>
 
 ###
 
